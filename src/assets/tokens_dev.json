@@ -1,0 +1,106 @@
+[
+  {
+    "id": 825,
+    "name": "Tether",
+    "symbol": "USDT",
+    "slug": "tether",
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0x8D7F2Fbf9a878f1f104574890Ac73094fAA51030"
+    }
+  },
+  {
+    "id": 1975,
+    "name": "ENJ",
+    "symbol": "ENJ",
+    "slug": "ENJ",
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0xF12a91dfdf15afce6CbFfddEa4f19aa36ecB23Bc"
+    }
+  },
+  {
+    "id": 3633,
+    "name": "DAI",
+    "symbol": "DAI",
+    "slug": "DAI",
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0x8667a012bc0856f073c00E8F0F25c1BDF9fB4259"
+    }
+  },
+  {
+    "id": 3634,
+    "name": "LEND",
+    "symbol": "LEND",
+    "slug": "LEND",
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0x4b2AF4866Ccdbf4Af927D34716225a4c3a958Ef2"
+    }
+  },
+  {
+    "id": 3635,
+    "name": "LINK",
+    "symbol": "LINK",
+    "slug": "LINK",
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0x3724052F03dAaD31FA6cbDA4B6406E6467A98902"
+    }
+  },
+  {
+    "id": 3636,
+    "name": "CRV",
+    "symbol": "CRV",
+    "slug": "CRV",
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0x53d36f66e0407fdbB6a914779285E0ed854683D1"
+    }
+  },
+  {
+    "id": 3637,
+    "name": "YFI",
+    "symbol": "YFI",
+    "slug": "YFI",
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0xe07b13884EAb78dc1F9281d310a64116D8eAdBaa"
+    }
+  },
+  {
+    "id": 10001,
+    "name": "KEN",
+    "symbol": "KEN",
+    "slug": "KEN",
+    "platform": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "token_address": "0x7135F41eD9Ca598F6F08527c3FaB8A02cB97d4dF"
+    }
+  }
+]
